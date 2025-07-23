@@ -1,0 +1,10 @@
+# 数据可视化和分析常用库
+matplotlib
+pandas
+numpy
+
+# 如有地图相关需求可加入
+geopandas
+folium
+
+# 根据你的实际脚本内容可补充其它库
